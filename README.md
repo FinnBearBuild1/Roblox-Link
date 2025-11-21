@@ -1,3 +1,3 @@
-# Roblox-Link
-<a href="https://www.coursera.gq">https://www.coursera.gq</a>
-<a href="https://www.rammerhead.org">https://www.rammerhead.org</a>
+# Roblox-Links
+<a href="https://coursera.gq">https://coursera.gq</a>
+<a href="https://coursera.ga">https://coursera.ga</a>
